@@ -1,0 +1,31 @@
+body{margin:0;
+}
+nav{
+    text-align:right;
+    background-color: #2a2f33;
+}
+.menu{
+    padding:20px;
+}
+.menu a{
+    color:grey;
+    text-decoration:none;
+}
+
+.menu .linkler{
+    margin-right:30px;
+    margin-left:30px; 
+    text-align:right;
+    background-color: #2a2f33;
+    transition-property: color;
+    transition-duration: 0.3s;
+}
+
+.menu .linkler:hover{
+    color:white;
+    
+}
+
+.menu #marka{
+    float:left ;
+}
